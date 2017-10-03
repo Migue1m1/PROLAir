@@ -1,0 +1,255 @@
+vuelos('CARACAS', 'SANTO DOMINGO', 11.00, 11.55, 1108, '5R 1300', ['Sabado']).
+vuelos('CARACAS', 'PORLAMAR', 12.30, 13.25, 1171, '5R 1302', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('CARACAS', 'PORLAMAR', 16.20, 17.15, 1331, '5R 1304', ['Domingo']).
+vuelos('CARACAS', 'PTO ORDAZ', 19.20, 20.15, 1456, '5R 1306', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'SANTO DOMINGO', 15.10, 16.05, 1282, '5R 1308', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('CARACAS', 'SANTO DOMINGO', 14.10, 15.05, 1240, '5R 1308', ['Domingo']).
+vuelos('CARACAS', 'PTO ORDAZ', 10.40, 11.35, 1094, '5R 1312', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 18.45, 19.40, 1431, '5R 1322', ['Sabado']).
+vuelos('CARACAS', 'PORLAMAR', 14.20, 15.15, 1247, '5R 1324', ['Sabado']).
+vuelos('CARACAS', 'BARCELONA', 17.50, 18.45, 1393, '5R 1354', ['Viernes']).
+vuelos('CARACAS', 'BARCELONA', 19.10, 20.05, 1449, '5R 1358', ['Lunes', 'Martes', 'Miercoles', 'Jueves']).
+vuelos('CARACAS', 'PTO ORDAZ', 13.20, 14.15, 1206, '5R 1380', ['Sabado']).
+vuelos('CARACAS', 'SANTO DOMINGO', 09.00, 09.55, 1025, '5R 1390', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'SANTO DOMINGO', 12.00, 12.55, 1150, '5R 1390', ['Domingo']).
+vuelos('CARACAS', 'BARCELONA', 06.00, 06.55, 900, '9V 1016', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'BARCELONA', 18.00, 18.55, 1400, '9V 1017', ['Lunes', 'Miercoles', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 07.45, 08.40, 973, 'LE 902', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('CARACAS', 'PORLAMAR', 08.45, 09.40, 1015, 'LE 902', ['Sabado']).
+vuelos('CARACAS', 'PORLAMAR', 16.30, 17.25, 1338, 'LE 908', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 16.30, 17.25, 1338, 'LE 908', ['Viernes']).
+vuelos('CARACAS', 'PORLAMAR', 19.30, 20.25, 1463, 'LE 910', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 20.30, 21.25, 1504, 'LE 912', ['Viernes', 'Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 12.30, 13.25, 1171, 'LE 914', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'EL VIGIA', 07.00, 07.55, 942, 'LE 922', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('CARACAS', 'EL VIGIA', 08.45, 09.40, 1015, 'LE 922', ['Sabado']).
+vuelos('CARACAS', 'EL VIGIA', 15.00, 15.55, 1275, 'LE 924', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'EL VIGIA', 15.00, 15.55, 1275, 'LE 924', ['Sabado']).
+vuelos('CARACAS', 'EL VIGIA', 19.15, 20.10, 1452, 'LE 926', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'EL VIGIA', 11.00, 11.55, 1108, 'LE 928', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'SANTO DOMINGO', 06.30, 07.25, 921, 'LE 932', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('CARACAS', 'SANTO DOMINGO', 08.00, 08.55, 983, 'LE 932', ['Sabado']).
+vuelos('CARACAS', 'SANTO DOMINGO', 11.30, 12.25, 1129, 'LE 934', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'SANTO DOMINGO', 14.45, 15.40, 1265, 'LE 936', ['Sabado']).
+vuelos('CARACAS', 'MARACAIBO', 08.30, 09.25, 1004, 'LE 940', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('CARACAS', 'MARACAIBO', 08.00, 08.55, 983, 'LE 940', ['Domingo']).
+vuelos('CARACAS', 'MARACAIBO', 10.00, 10.55, 1067, 'LE 942', ['Sabado']).
+vuelos('CARACAS', 'MARACAIBO', 17.30, 18.25, 1379, 'LE 944', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'MARACAIBO', 19.30, 20.25, 1463, 'LE 946', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'BARCELONA', 08.00, 08.55, 983, 'LE 970', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'BARCELONA', 10.30, 11.25, 1088, 'LE 970', ['Sabado']).
+vuelos('CARACAS', 'BARQUISIMETO', 07.40, 08.35, 969, 'R7 711', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'BARQUISIMETO', 16.40, 17.35, 1344, 'R7 717', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'BARQUISIMETO', 20.20, 21.15, 1497, 'R7 719', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'LAS PIEDRAS', 07.50, 08.45, 976, 'R7 720', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'LAS PIEDRAS', 18.20, 19.15, 1414, 'R7 722', ['Sabado', 'Domingo']).
+vuelos('CARACAS', 'BARCELONA', 08.40, 09.35, 1011, 'R7 731', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'BARCELONA', 10.50, 11.45, 1101, 'R7 733', ['Domingo']).
+vuelos('CARACAS', 'BARCELONA', 14.30, 15.25, 1254, 'R7 735', ['Sabado']).
+vuelos('CARACAS', 'BARCELONA', 18.20, 19.15, 1414, 'R7 737', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('CARACAS', 'BARCELONA', 17.00, 17.55, 1358, 'R7 737', ['Domingo']).
+vuelos('CARACAS', 'PTO ORDAZ', 12.00, 12.55, 1150, 'R7 743', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'PTO ORDAZ', 16.00, 16.55, 1317, 'R7 745', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'PTO ORDAZ', 20.00, 20.55, 1483, 'R7 747', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'PTO ORDAZ', 20.40, 21.35, 1511, 'R7 747', ['Domingo']).
+vuelos('CARACAS', 'MARACAIBO', 08.00, 08.55, 983, 'R7 751', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'MARACAIBO', 16.00, 16.55, 1317, 'R7 755', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'MARACAIBO', 20.20, 21.15, 1497, 'R7 757', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'SANTO DOMINGO', 11.20, 12.15, 1122, 'R7 762', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'SANTO DOMINGO', 09.20, 10.15, 1039, 'R7 762', ['Domingo']).
+vuelos('CARACAS', 'MATURIN', 11.20, 12.15, 1122, 'R7 773', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'MATURIN', 10.20, 11.15, 1081, 'R7 773', ['Domingo']).
+vuelos('CARACAS', 'MATURIN', 14.50, 15.45, 1268, 'R7 775', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'MATURIN', 14.00, 14.55, 1233, 'R7 775', ['Domingo']).
+vuelos('CARACAS', 'MATURIN', 21.30, 22.25, 1546, 'R7 779', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('CARACAS', 'MATURIN', 21.50, 22.45, 1560, 'R7 779', ['Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 14.30, 15.25, 1254, 'R7 783', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 21.00, 21.55, 1525, 'R7 785', ['Sabado']).
+vuelos('CARACAS', 'BARINAS', 15.00, 15.55, 1275, 'RGR100', ['Lunes', 'Miercoles', 'Viernes']).
+vuelos('CARACAS', 'VALERA', 07.30, 08.25, 963, 'RGR110', ['Lunes', 'Miercoles', 'Viernes']).
+vuelos('CARACAS', 'MARACAIBO', 05.55, 06.50, 897, 'VH 102', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'MARACAIBO', 06.30, 07.25, 921, 'VH 102', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'MARACAIBO', 11.15, 12.10, 1119, 'VH 104', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('CARACAS', 'MARACAIBO', 15.40, 16.35, 1303, 'VH 106', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'MARACAIBO', 16.40, 17.35, 1344, 'VH 106', ['Sabado']).
+vuelos('CARACAS', 'MARACAIBO', 19.40, 20.35, 1469, 'VH 114', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'LAS PIEDRAS', 09.45, 10.40, 1056, 'VH 130', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'LAS PIEDRAS', 09.20, 10.15, 1039, 'VH 130', ['Lunes', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'BARQUISIMETO', 09.30, 10.25, 1046, 'VH 150', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'BARQUISIMETO', 16.40, 17.35, 1344, 'VH 152', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'BARQUISIMETO', 19.10, 20.05, 1449, 'VH 154', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 07.40, 08.35, 969, 'VH 300', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 12.30, 13.25, 1171, 'VH 302', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 13.40, 14.35, 1219, 'VH 304', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 21.30, 22.25, 1546, 'VH 312', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'CUMANA', 10.50, 11.45, 1101, 'VH 334', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'PTO ORDAZ', 05.50, 06.45, 893, 'VH 342', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'PTO ORDAZ', 19.10, 20.05, 1449, 'VH 348', ['Lunes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'PTO ORDAZ', 19.10, 20.05, 1449, 'VH 348', ['Martes']).
+vuelos('CARACAS', 'MATURIN', 12.30, 13.25, 1171, 'VH 362', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'MATURIN', 12.30, 13.25, 1171, 'VH 362', ['Lunes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'MATURIN', 14.30, 15.25, 1254, 'VN 1352', ['Lunes', 'Martes', 'Miercoles', 'Viernes']).
+vuelos('CARACAS', 'MATURIN', 11.00, 11.55, 1108, 'VN 1352', ['Jueves', 'Domingo']).
+vuelos('CARACAS', 'MARACAIBO', 08.00, 08.55, 983, 'VN 221', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('CARACAS', 'MARACAIBO', 12.00, 12.55, 1150, 'VN 223', ['Lunes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'MARACAIBO', 17.00, 17.55, 1358, 'VN 225', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'MARACAIBO', 20.30, 21.25, 1504, 'VN 227', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'CUMANA', 07.30, 08.25, 963, 'VN 349', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('CARACAS', 'PORLAMAR', 06.00, 06.55, 900, 'VO 2002', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 10.30, 11.25, 1088, 'VO 2004', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 14.00, 14.55, 1233, 'VO 2008', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 18.20, 19.15, 1414, 'VO 2010', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'PORLAMAR', 20.50, 21.45, 1518, 'VO 2012', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'MATURIN', 17.10, 18.05, 1365, 'VO 2028', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'SAN TOME', 12.40, 13.35, 1178, 'VO 2050', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'MARACAIBO', 08.20, 09.15, 997, 'VO 2102', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'MARACAIBO', 14.50, 15.45, 1268, 'VO 2106', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'MARACAIBO', 22.40, 23.35, 1594, 'VO 2114', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'EL VIGIA', 06.30, 07.25, 921, 'VO 2120', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'EL VIGIA', 19.00, 19.55, 1442, 'VO 2126', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'BARINAS', 08.40, 09.35, 1011, 'VO 2132', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'LAS PIEDRAS', 20.50, 21.45, 1518, 'VO 2148', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'SANTO DOMINGO', 10.30, 11.25, 1088, 'VO 2172', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'SANTO DOMINGO', 15.00, 15.55, 1275, 'VO 2176', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'CORO', 13.30, 14.25, 1213, 'VO 2190', ['Lunes', 'Miercoles', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'PTO AYACUCHO', 12.10, 13.05, 1157, 'VO 2202', ['Lunes', 'Miercoles']).
+vuelos('CARACAS', 'PTO AYACUCHO', 12.10, 13.05, 1157, 'VO 2202', ['Viernes', 'Domingo']).
+vuelos('CARACAS', 'BARQUISIMETO', 12.20, 13.15, 1164, 'VO 2230', ['Lunes', 'Miercoles', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'PTO ORDAZ', 06.30, 07.25, 921, 'VO 2380', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CARACAS', 'PTO ORDAZ', 16.50, 17.45, 1351, 'VO 2386', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CARACAS', 'SAN FER. DE APURE', 09.50, 10.45, 1060, 'VO 2500', ['Viernes', 'Domingo']).
+vuelos('SANTO DOMINGO', 'CARACAS', 13.50, 14.45, 1226, '5R 1301', ['Sabado']).
+vuelos('PORLAMAR', 'CARACAS', 13.50, 14.45, 1226, '5R 1303', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('PORLAMAR', 'CARACAS', 09.40, 10.35, 1053, '5R 1303', ['Domingo']).
+vuelos('PTO ORDAZ', 'CARACAS', 07.00, 07.55, 942, '5R 1307', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('SANTO DOMINGO', 'CARACAS', 17.50, 18.45, 1393, '5R 1309', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('SANTO DOMINGO', 'CARACAS', 16.50, 17.45, 1351, '5R 1309', ['Domingo']).
+vuelos('PTO ORDAZ', 'CARACAS', 12.50, 13.45, 1185, '5R 1313', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('PTO ORDAZ', 'CARACAS', 07.20, 08.15, 956, '5R 1317', ['Domingo']).
+vuelos('PORLAMAR', 'CARACAS', 20.35, 21.30, 1508, '5R 1323', ['Sabado']).
+vuelos('PORLAMAR', 'CARACAS', 10.20, 11.15, 1081, '5R 1325', ['Sabado']).
+vuelos('PORLAMAR', 'CARACAS', 18.20, 19.15, 1414, '5R 1327', ['Domingo']).
+vuelos('BARCELONA', 'CARACAS', 06.40, 07.35, 928, '5R 1353', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('SANTO DOMINGO', 'CARACAS', 11.50, 12.45, 1143, '5R 1391', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('SANTO DOMINGO', 'CARACAS', 14.45, 15.40, 1265, '5R 1391', ['Domingo']).
+vuelos('BARCELONA', 'CARACAS', 08.45, 09.40, 1015, '9V 1015', ['Lunes', 'Miercoles', 'Viernes', 'Domingo']).
+vuelos('BARCELONA', 'CARACAS', 21.45, 22.40, 1556, '9V 1018', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('PORLAMAR', 'CARACAS', 06.50, 07.45, 935, 'LE 901', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('PORLAMAR', 'CARACAS', 08.10, 09.05, 990, 'LE 901', ['Sabado']).
+vuelos('PORLAMAR', 'CARACAS', 10.00, 10.55, 1067, 'LE 903', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('PORLAMAR', 'CARACAS', 10.55, 11.50, 1105, 'LE 903', ['Sabado']).
+vuelos('PORLAMAR', 'CARACAS', 18.35, 19.30, 1424, 'LE 909', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('PORLAMAR', 'CARACAS', 19.55, 20.50, 1480, 'LE 911', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('PORLAMAR', 'CARACAS', 09.20, 10.15, 1039, 'LE 915', ['Sabado']).
+vuelos('PORLAMAR', 'CARACAS', 22.45, 23.40, 1598, 'LE 915', ['Domingo']).
+vuelos('EL VIGIA', 'CARACAS', 10.15, 11.10, 1077, 'LE 923', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('EL VIGIA', 'CARACAS', 13.15, 14.10, 1202, 'LE 923', ['Sabado']).
+vuelos('EL VIGIA', 'CARACAS', 18.15, 19.10, 1410, 'LE 925', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('EL VIGIA', 'CARACAS', 18.15, 19.10, 1410, 'LE 925', ['Sabado']).
+vuelos('EL VIGIA', 'CARACAS', 07.45, 08.40, 973, 'LE 927', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('EL VIGIA', 'CARACAS', 09.15, 10.10, 1035, 'LE 927', ['Sabado']).
+vuelos('EL VIGIA', 'CARACAS', 14.15, 15.10, 1244, 'LE 929', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('SANTO DOMINGO', 'CARACAS', 09.45, 10.40, 1056, 'LE 933', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('SANTO DOMINGO', 'CARACAS', 11.20, 12.15, 1122, 'LE 933', ['Sabado']).
+vuelos('SANTO DOMINGO', 'CARACAS', 14.45, 15.40, 1265, 'LE 935', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('SANTO DOMINGO', 'CARACAS', 18.05, 19.00, 1403, 'LE 937', ['Sabado']).
+vuelos('MARACAIBO', 'CARACAS', 11.10, 12.05, 1115, 'LE 941', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('MARACAIBO', 'CARACAS', 11.00, 11.55, 1108, 'LE 941', ['Domingo']).
+vuelos('MARACAIBO', 'CARACAS', 13.45, 14.40, 1223, 'LE 943', ['Sabado']).
+vuelos('MARACAIBO', 'CARACAS', 20.15, 21.10, 1494, 'LE 945', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('MARACAIBO', 'CARACAS', 07.00, 07.55, 942, 'LE 947', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('MARACAIBO', 'CARACAS', 09.00, 09.55, 1025, 'LE 947', ['Sabado']).
+vuelos('BARCELONA', 'CARACAS', 10.15, 11.10, 1077, 'LE 971', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('BARCELONA', 'CARACAS', 12.45, 13.40, 1181, 'LE 971', ['Sabado']).
+vuelos('BARQUISIMETO', 'CARACAS', 06.40, 07.35, 928, 'R7 710', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('BARQUISIMETO', 'CARACAS', 09.50, 10.45, 1060, 'R7 712', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('BARQUISIMETO', 'CARACAS', 09.10, 10.05, 1032, 'R7 712', ['Domingo']).
+vuelos('BARQUISIMETO', 'CARACAS', 18.40, 19.35, 1428, 'R7 718', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('LAS PIEDRAS', 'CARACAS', 10.20, 11.15, 1081, 'R7 721', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('LAS PIEDRAS', 'CARACAS', 20.50, 21.45, 1518, 'R7 723', ['Sabado', 'Domingo']).
+vuelos('BARCELONA', 'CARACAS', 10.20, 11.15, 1081, 'R7 732', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('BARCELONA', 'CARACAS', 13.00, 13.55, 1192, 'R7 734', ['Domingo']).
+vuelos('BARCELONA', 'CARACAS', 16.40, 17.35, 1344, 'R7 736', ['Sabado']).
+vuelos('BARCELONA', 'CARACAS', 20.30, 21.25, 1504, 'R7 738', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('BARCELONA', 'CARACAS', 19.20, 20.15, 1456, 'R7 738', ['Domingo']).
+vuelos('PTO ORDAZ', 'CARACAS', 07.00, 07.55, 942, 'R7 740', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('PTO ORDAZ', 'CARACAS', 09.00, 09.55, 1025, 'R7 742', ['Domingo']).
+vuelos('PTO ORDAZ', 'CARACAS', 15.00, 15.55, 1275, 'R7 744', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('PTO ORDAZ', 'CARACAS', 19.00, 19.55, 1442, 'R7 746', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('MARACAIBO', 'CARACAS', 06.30, 07.25, 921, 'R7 750', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('MARACAIBO', 'CARACAS', 11.00, 11.55, 1108, 'R7 752', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('MARACAIBO', 'CARACAS', 09.00, 09.55, 1025, 'R7 752', ['Domingo']).
+vuelos('MARACAIBO', 'CARACAS', 19.00, 19.55, 1442, 'R7 756', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('SANTO DOMINGO', 'CARACAS', 14.40, 15.35, 1261, 'R7 763', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('SANTO DOMINGO', 'CARACAS', 12.30, 13.25, 1171, 'R7 763', ['Domingo']).
+vuelos('MATURIN', 'CARACAS', 06.50, 07.45, 935, 'R7 770', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('MATURIN', 'CARACAS', 13.50, 14.45, 1226, 'R7 774', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('MATURIN', 'CARACAS', 12.50, 13.45, 1185, 'R7 774', ['Domingo']).
+vuelos('MATURIN', 'CARACAS', 17.20, 18.15, 1372, 'R7 776', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('MATURIN', 'CARACAS', 16.30, 17.25, 1338, 'R7 776', ['Domingo']).
+vuelos('PORLAMAR', 'CARACAS', 08.15, 09.10, 994, 'R7 780', ['Domingo']).
+vuelos('PORLAMAR', 'CARACAS', 13.30, 14.25, 1213, 'R7 784', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('PORLAMAR', 'CARACAS', 12.40, 13.35, 1178, 'R7 784', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('BARINAS', 'CARACAS', 18.10, 19.05, 1407, 'RGR101', ['Lunes', 'Miercoles', 'Viernes']).
+vuelos('VALERA', 'CARACAS', 10.40, 11.35, 1094, 'RGR111', ['Lunes', 'Miercoles', 'Viernes']).
+vuelos('MARACAIBO', 'CARACAS', 06.40, 07.35, 928, 'VH 101', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('MARACAIBO', 'CARACAS', 08.25, 09.20, 1001, 'VH 105', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('MARACAIBO', 'CARACAS', 09.00, 09.55, 1025, 'VH 105', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('MARACAIBO', 'CARACAS', 13.45, 14.40, 1223, 'VH 107', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('MARACAIBO', 'CARACAS', 18.10, 19.05, 1407, 'VH 109', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('MARACAIBO', 'CARACAS', 19.10, 20.05, 1449, 'VH 109', ['Sabado']).
+vuelos('MARACAIBO', 'CARACAS', 22.10, 23.05, 1574, 'VH 117', ['Viernes']).
+vuelos('MARACAIBO', 'CARACAS', 21.15, 22.10, 1535, 'VH 117', ['Viernes']).
+vuelos('LAS PIEDRAS', 'CARACAS', 11.55, 12.50, 1147, 'VH 131', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('LAS PIEDRAS', 'CARACAS', 11.30, 12.25, 1129, 'VH 131', ['Lunes', 'Viernes', 'Domingo']).
+vuelos('BARQUISIMETO', 'CARACAS', 07.00, 07.55, 942, 'VH 151', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('BARQUISIMETO', 'CARACAS', 11.30, 12.25, 1129, 'VH 153', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('BARQUISIMETO', 'CARACAS', 18.40, 19.35, 1428, 'VH 155', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('BARQUISIMETO', 'CARACAS', 21.20, 22.15, 1539, 'VH 157', ['Viernes']).
+vuelos('PORLAMAR', 'CARACAS', 09.40, 10.35, 1053, 'VH 301', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('PORLAMAR', 'CARACAS', 15.40, 16.35, 1303, 'VH 307', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('PORLAMAR', 'CARACAS', 20.50, 21.45, 1518, 'VH 309', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('PORLAMAR', 'CARACAS', 20.30, 21.25, 1504, 'VH 309', ['Lunes', 'Martes', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('PORLAMAR', 'CARACAS', 17.30, 18.25, 1379, 'VH 309', ['Miercoles', 'Sabado']).
+vuelos('PORLAMAR', 'CARACAS', 23.30, 00.25, 1629, 'VH 313', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('CUMANA', 'CARACAS', 12.40, 13.35, 1178, 'VH 335', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('PTO ORDAZ', 'CARACAS', 08.30, 09.25, 1004, 'VH 345', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('PTO ORDAZ', 'CARACAS', 21.40, 22.35, 1553, 'VH 351', ['Lunes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('PTO ORDAZ', 'CARACAS', 21.40, 22.35, 1553, 'VH 351', ['Martes']).
+vuelos('MATURIN', 'CARACAS', 14.40, 15.35, 1261, 'VH 363', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('MATURIN', 'CARACAS', 14.40, 15.35, 1261, 'VH 363', ['Lunes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('MATURIN', 'CARACAS', 09.50, 10.45, 1060, 'VN 1351', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('MARACAIBO', 'CARACAS', 06.20, 07.15, 914, 'VN 220', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('MARACAIBO', 'CARACAS', 06.50, 07.45, 935, 'VN 222', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('MARACAIBO', 'CARACAS', 11.00, 11.55, 1108, 'VN 224', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('MARACAIBO', 'CARACAS', 19.50, 20.45, 1476, 'VN 226', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('CUMANA', 'CARACAS', 09.45, 10.40, 1056, 'VN 350', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes']).
+vuelos('PORLAMAR', 'CARACAS', 07.20, 08.15, 956, 'VO 2001', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('PORLAMAR', 'CARACAS', 13.30, 14.25, 1213, 'VO 2005', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('PORLAMAR', 'CARACAS', 17.00, 17.55, 1358, 'VO 2009', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('PORLAMAR', 'CARACAS', 21.20, 22.15, 1539, 'VO 2011', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('PORLAMAR', 'CARACAS', 23.20, 00.15, 1622, 'VO 2013', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('MATURIN', 'CARACAS', 19.30, 20.25, 1463, 'VO 2029', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('SAN TOME', 'CARACAS', 14.50, 15.45, 1268, 'VO 2051', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('MARACAIBO', 'CARACAS', 07.00, 07.55, 942, 'VO 2101', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado']).
+vuelos('MARACAIBO', 'CARACAS', 11.20, 12.15, 1122, 'VO 2103', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('MARACAIBO', 'CARACAS', 22.50, 23.45, 1601, 'VO 2113', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('EL VIGIA', 'CARACAS', 09.10, 10.05, 1032, 'VO 2121', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('EL VIGIA', 'CARACAS', 21.40, 22.35, 1553, 'VO 2127', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('BARINAS', 'CARACAS', 11.00, 11.55, 1108, 'VO 2133', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('LAS PIEDRAS', 'CARACAS', 23.10, 00.05, 1615, 'VO 2149', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('SANTO DOMINGO', 'CARACAS', 13.10, 14.05, 1199, 'VO 2173', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Sabado', 'Domingo']).
+vuelos('SANTO DOMINGO', 'CARACAS', 17.40, 18.35, 1386, 'VO 2177', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('SAN ANTONIO', 'CARACAS', 09.15, 10.10, 1035, 'VO 2179', ['Martes', 'Jueves']).
+vuelos('CORO', 'CARACAS', 15.50, 16.45, 1310, 'VO 2191', ['Lunes', 'Miercoles', 'Viernes', 'Domingo']).
+vuelos('PTO AYACUCHO', 'CARACAS', 14.30, 15.25, 1254, 'VO 2203', ['Lunes', 'Miercoles']).
+vuelos('PTO AYACUCHO', 'CARACAS', 14.30, 15.25, 1254, 'VO 2203', ['Viernes', 'Domingo']).
+vuelos('BARQUISIMETO', 'CARACAS', 18.40, 19.35, 1428, 'VO 2235', ['Lunes', 'Miercoles', 'Viernes', 'Domingo']).
+vuelos('PTO ORDAZ', 'CARACAS', 09.10, 10.05, 1032, 'VO 2381', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('PTO ORDAZ', 'CARACAS', 17.20, 18.15, 1372, 'VO 2385', ['Sabado']).
+vuelos('PTO ORDAZ', 'CARACAS', 19.30, 20.25, 1463, 'VO 2387', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('SAN FER. DE APURE', 'CARACAS', 12.10, 13.05, 1157, 'VO 2501', ['Viernes', 'Domingo']).
+vuelos('PTO ORDAZ', 'PORLAMAR', 09.50, 10.45, 1500, 'VO 2353', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('PTO ORDAZ', 'PORLAMAR', 23.20, 00.15, 1400, 'VO 2359', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('PORLAMAR', 'PTO ORDAZ', 08.10, 09.05, 1600, 'VO 2352', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
+vuelos('PORLAMAR', 'PTO ORDAZ', 09.40, 10.35, 1500, 'VO 2358', ['Lunes', 'Martes', 'Miercoles', 'Jueves', 'Viernes', 'Domingo']).
